@@ -5,7 +5,7 @@
 + [fuzzbuster](https://github.com/ultros/fuzzbuster) - Multi-threaded (concurrent) directory buster, query fuzzer, subdomain/vhost enumerator
 + [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
 + [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
-+ [harbor](https://github.com/ultros/harbor - Multi-threaded (concurrent) port scanner
++ [harbor](https://github.com/ultros/harbor) - Multi-threaded (concurrent) port scanner
 
 ## Mobile Devices
 + [Huawei m615 messageMaster Carver](https://github.com/ultros/Huawei-m615-messageMaster-Carver)
