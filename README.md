@@ -1,6 +1,9 @@
 ## Encryption  
 + [DotNetNuker](https://github.com/ultros/dotnetnuker) - Decrypts DotNetNuke (DNN) Encrypted Passwords
 
+## Anti-Forensics
++ [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet.
+
 ## Cybersecurity
 + [fuzzbuster](https://github.com/ultros/fuzzbuster) - Multi-threaded (concurrent) directory buster, query fuzzer, subdomain/vhost enumerator
 + [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
