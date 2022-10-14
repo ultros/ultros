@@ -2,7 +2,7 @@
 + [DotNetNuker](https://github.com/ultros/dotnetnuker) - Decrypts DotNetNuke (DNN) Encrypted Passwords
 
 ## Anti-Forensics
-+ [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet.
++ [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet and reading kern.log.
 
 ## Cybersecurity
 + [fuzzbuster](https://github.com/ultros/fuzzbuster) - Multi-threaded (concurrent) directory buster, query fuzzer, subdomain/vhost enumerator
