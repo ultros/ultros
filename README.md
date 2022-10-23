@@ -12,7 +12,7 @@
 + [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
 + [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
 + [harbor](https://github.com/ultros/harbor) - Multi-threaded (concurrent) port scanner
-+ [ldaplister](https://github.com/ultros/ldaplister) - LDAP tools
++ [ldaplister](https://github.com/ultros/ldaplister) - LDAP Tools
 
 ## Mobile Devices
 + [Huawei m615 messageMaster Carver](https://github.com/ultros/Huawei-m615-messageMaster-Carver)
