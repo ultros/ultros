@@ -8,11 +8,13 @@
 + [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet and reading kern.log.
 
 ## Cybersecurity
-+ [fuzzbuster](https://github.com/ultros/fuzzbuster) - Multi-threaded (concurrent) directory buster, query fuzzer, subdomain/vhost enumerator
-+ [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
 + [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
 + [harbor](https://github.com/ultros/harbor) - Multi-threaded (concurrent) port scanner
+
+#### Enumeration
++ [fuzzbuster](https://github.com/ultros/fuzzbuster) - Multi-threaded (concurrent) directory buster, query fuzzer, subdomain/vhost enumerator
 + [ldaplister](https://github.com/ultros/ldaplister) - LDAP Tools
++ [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
 
 #### Honeypots and Phishing
 + [sshoney](https://github.com/ultros/sshoney) - An SSH Honeypot for capturing logon credentials.
