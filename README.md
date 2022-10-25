@@ -15,7 +15,7 @@
 + [ldaplister](https://github.com/ultros/ldaplister) - LDAP Tools
 
 #### Honeypots, Lures, and Phishing
-+ [sshoney](https://githuob.com/ultros/sshoney) - An SSH Honeypot for capturing logon credentials.
++ [sshoney](https://github.com/ultros/sshoney) - An SSH Honeypot for capturing logon credentials.
 
 ## Mobile Devices
 + [Huawei m615 messageMaster Carver](https://github.com/ultros/Huawei-m615-messageMaster-Carver)
