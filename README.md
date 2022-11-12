@@ -5,7 +5,7 @@
 + [pbrExtractor](https://github.com/ultros/pbre) - Plugin-Based Registry Extractor
 
 ## Anti-Forensics
-+ [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet and reading kern.log.
++ [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet and reading kern.log (no socket binding).
 
 ## Cybersecurity
 + [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
