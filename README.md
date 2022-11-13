@@ -9,11 +9,11 @@
 
 ## Cybersecurity
 + [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
-+ [harbor](https://github.com/ultros/harbor) - Multi-threaded (concurrent) port scanner
-  + [harbor screenshot](https://github.com/ultros/harbor_screenshot) - Multi-threaded (concurrent) webpage snapshot tool (provide protocol and IP address e.g. http://127.0.0.1)
++ [harbor](https://github.com/ultros/harbor) - Concurrent port scanner
+  + [harbor screenshot](https://github.com/ultros/harbor_screenshot) - Concurrent webpage snapshot/screencapture tool
 
 #### Enumeration
-+ [fuzzbuster](https://github.com/ultros/fuzzbuster) - Multi-threaded (concurrent) directory buster, query fuzzer, subdomain/vhost enumerator
++ [fuzzbuster](https://github.com/ultros/fuzzbuster) - Concurrent directory buster, query fuzzer, subdomain/vhost enumerator
 + [ldaplister](https://github.com/ultros/ldaplister) - LDAP Tools
 + [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
 
