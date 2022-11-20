@@ -13,8 +13,8 @@
   + [harbor screenshot](https://github.com/ultros/harbor_screenshot) - Concurrent webpage snapshot/screencapture tool
 
 #### Enumeration
-+ [fuzzbuster](https://github.com/ultros/fuzzbuster) - Concurrent directory buster, query fuzzer, subdomain/vhost enumerator
-  + [subdomainfuzzbuster](https://github.com/ultros/subdomainfuzzbuster) - Concurrent subdomain and virtual host fuzzer
++ [fuzzbuster](https://github.com/ultros/fuzzbuster) - Concurrent directory buster, parameter and query fuzzer
+  + [subdomainfuzzbuster](https://github.com/ultros/subdomainfuzzbuster) - Concurrent subdomain and virtual host enumerator
 + [ldaplister](https://github.com/ultros/ldaplister) - LDAP Tools
 + [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
 
