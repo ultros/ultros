@@ -14,7 +14,7 @@
 
 #### Enumeration
 + [fuzzbuster](https://github.com/ultros/fuzzbuster) - Concurrent directory buster, parameter and query fuzzer
-  + [subdomainfuzzbuster](https://github.com/ultros/fuzzbuster/subdomainfuzzbuster.py) - Concurrent subdomain and virtual host enumerator
+  + [subdomainfuzzbuster](https://github.com/ultros/fuzzbuster/blob/master/subdomainfuzzbuster.py) - Concurrent subdomain and virtual host enumerator
 + [ldaplister](https://github.com/ultros/ldaplister) - LDAP Tools
 + [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
 
