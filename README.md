@@ -18,7 +18,7 @@
 + [ldaplister](https://github.com/ultros/ldaplister) - LDAP Tools
 + [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
 
-#### Honeypots and Phishing
+#### Honeypots, Lures, and Phishing
 + [sshoney](https://github.com/ultros/sshoney) - An SSH Honeypot for capturing logon credentials.
 
 ## Mobile Devices
