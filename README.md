@@ -20,6 +20,7 @@
 
 #### Honeypots, Lures, and Phishing
 + [sshoney](https://github.com/ultros/sshoney) - An SSH Honeypot for capturing logon credentials.
++ [ftpdhoney](https://github.com/ultros/honeyftpd) - An FTP Honeypot for capturing logon credentials.
 
 ## Mobile Devices
 + [Huawei m615 messageMaster Carver](https://github.com/ultros/Huawei-m615-messageMaster-Carver)
