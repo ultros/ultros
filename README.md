@@ -14,6 +14,7 @@
 + [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
 + [harbor](https://github.com/ultros/harbor) - Concurrent port scanner
   + [harbor screenshot](https://github.com/ultros/harbor_screenshot) - Concurrent webpage snapshot/screencapture tool
++ [simpleshell](https://github.com/ultros/simpleshell) - A simple way to bypass Microsoft Defender with a powershell reverse shell and a simple interface to interact with the remote system. 
 
 #### Enumeration
 + [fuzzbuster](https://github.com/ultros/fuzzbuster) - Concurrent directory buster, parameter and query fuzzer
