@@ -5,7 +5,7 @@
 + [DotNetNuker](https://github.com/ultros/dotnetnuker) - Decrypts DotNetNuke (DNN) Encrypted Passwords
 
 ## Digital Forensics
-+ [pbrExtractor](https://github.com/ultros/pbre) - Plugin-Based Registry Extractor
++ [pbrExtractor](https://github.com/ultros/pbre) - Plugin-Based Registry Extractor (PoC)
 
 ## Anti-Forensics
 + [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet and reading kern.log (no socket binding).
