@@ -28,7 +28,7 @@
 + [ftpdhoney](https://github.com/ultros/honeyftpd) - An FTP Honeypot for capturing logon credentials.
 
 #### Authentication Systems
-+ PoC: [Concurrent Webpage Dictionary Attack in Python3](https://github.com/ultros/concurrent-webpage-login-dictionary-attack-script) - Concurrent Webpage Login Dictionary Attack Script in Python3
++ PoC: [Concurrent Webpage Dictionary Attack in Python3](https://github.com/ultros/concurrent-webpage-login-dictionary-attack-script)
 
 ## Mobile Devices
 + [Huawei m615 messageMaster Carver](https://github.com/ultros/Huawei-m615-messageMaster-Carver)
