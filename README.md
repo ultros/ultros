@@ -28,6 +28,7 @@
 + [ftpdhoney](https://github.com/ultros/honeyftpd) - An FTP Honeypot for capturing logon credentials.
 
 #### Authentication Systems
++ [rascal](https://github.com/ultros/rascal) - Concurrent Web Login Brute Forcer
 + PoC: [Concurrent Webpage Login Dictionary Attack in Python3](https://github.com/ultros/concurrent-webpage-login-dictionary-attack-script)
 
 ## Mobile Devices
