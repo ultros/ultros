@@ -26,6 +26,7 @@
 #### Honeypots, Lures, and Phishing
 + [sshoney](https://github.com/ultros/sshoney) - An SSH Honeypot for capturing logon credentials.
 + [ftpdhoney](https://github.com/ultros/honeyftpd) - An FTP Honeypot for capturing logon credentials.
++ [spider_trap](https://github.com/ultros/spider_trap) - A web crawler trap that can set some spiders into an infinite loop.
 
 #### Authentication Systems
 + [rascal](https://github.com/ultros/rascal) - Concurrent Webpage Login Brute Forcer (POST and Basic Authentication)
