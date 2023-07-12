@@ -30,7 +30,6 @@
 
 #### Authentication Systems
 + [rascal](https://github.com/ultros/rascal) - Concurrent Webpage Login Brute Forcer (POST and Basic Authentication)
-+ PoC: [Concurrent Webpage Login Dictionary Attack in Python3](https://github.com/ultros/concurrent-webpage-login-dictionary-attack-script)
 
 ## Mobile Devices
 + [Huawei m615 messageMaster Carver](https://github.com/ultros/Huawei-m615-messageMaster-Carver)
