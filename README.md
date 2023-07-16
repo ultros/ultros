@@ -11,11 +11,11 @@
 + [Python] [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet and reading kern.log (no socket binding).
 
 ## Cybersecurity
-+ [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
-+ [harbor](https://github.com/ultros/harbor) - Concurrent port scanner
-  + [harbor screenshot](https://github.com/ultros/harbor_screenshot) - Concurrent webpage snapshot/screencapture tool
-+ [simpleshell](https://github.com/ultros/simpleshell) - A simple way to bypass Microsoft Defender with a powershell reverse shell and a simple interface to interact with the remote system.
-+ [virustotal scripts](https://github.com/ultros/virustotal_scripts) - Various VirusTotal scripts.
++ [Python] [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
++ [Python] [harbor](https://github.com/ultros/harbor) - Concurrent port scanner
+  + [Python] [harbor screenshot](https://github.com/ultros/harbor_screenshot) - Concurrent webpage snapshot/screencapture tool
++ [Python] [simpleshell](https://github.com/ultros/simpleshell) - A simple way to bypass Microsoft Defender with a powershell reverse shell and a simple interface to interact with the remote system.
++ [Python] [virustotal scripts](https://github.com/ultros/virustotal_scripts) - Various VirusTotal scripts.
 
 #### Enumeration
 + [Python] [fuzzbuster](https://github.com/ultros/fuzzbuster) - Concurrent directory buster, parameter and query fuzzer
@@ -23,7 +23,7 @@
 + [Python] [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
 
 #### Active Directory
-+ [C#] [LDAP Tools](https://github.com/ultros/](https://github.com/ultros/LdapTools) - LDAP Tool GUI written in C#.
++ [C#] [LDAP Tools](https://github.com/ultros/LdapTools) - LDAP Tool GUI written in C#.
   
 #### Honeypots, Lures, and Phishing
 + [Python] [sshoney](https://github.com/ultros/sshoney) - An SSH Honeypot for capturing logon credentials.
@@ -31,9 +31,9 @@
 + [Python] [spider_trap](https://github.com/ultros/spider_trap) - A web crawler trap that can set some spiders into an infinite loop.
 
 #### Authentication Systems
-+ [rascal](https://github.com/ultros/rascal) - Concurrent Webpage Login Brute Forcer (POST and Basic Authentication)
++ [Python] [rascal](https://github.com/ultros/rascal) - Concurrent Webpage Login Brute Forcer (POST and Basic Authentication)
 
 ## Mobile Devices
-+ [Huawei m615 messageMaster Carver](https://github.com/ultros/Huawei-m615-messageMaster-Carver)
-+ [Android Email Extractor](https://github.com/ultros/extract-android-gmail)
-+ [iDevice exif Data Parser](https://github.com/ultros/iDevice-EXIF-Data-Parser)
++ [Python] [Huawei m615 messageMaster Carver](https://github.com/ultros/Huawei-m615-messageMaster-Carver)
++ [Python] [Android Email Extractor](https://github.com/ultros/extract-android-gmail)
++ [Python] [iDevice exif Data Parser](https://github.com/ultros/iDevice-EXIF-Data-Parser)
