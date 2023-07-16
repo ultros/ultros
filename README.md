@@ -1,14 +1,14 @@
 ## Artificial Intelligence  
-+ [daenum](https://github.com/ultros/daenum) - When run on a Debian system, this script will enumerate all daemons and provide an AI generated response of what each daemon performs or provides.  
++ [Python] [daenum](https://github.com/ultros/daenum) - When run on a Debian system, this script will enumerate all daemons and provide an AI generated response of what each daemon performs or provides.  
 
 ## Encryption  
-+ [DotNetNuker](https://github.com/ultros/dotnetnuker) - Decrypts DotNetNuke (DNN) Encrypted Passwords
++ [Python] [DotNetNuker](https://github.com/ultros/dotnetnuker) - Decrypts DotNetNuke (DNN) Encrypted Passwords
 
 ## Digital Forensics
-+ PoC: [pbrExtractor](https://github.com/ultros/pbre) - Plugin-Based Registry Extractor
++ PoC: [Python] [pbrExtractor](https://github.com/ultros/pbre) - Plugin-Based Registry Extractor
 
 ## Anti-Forensics
-+ [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet and reading kern.log (no socket binding).
++ [Python] [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet and reading kern.log (no socket binding).
 
 ## Cybersecurity
 + [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
@@ -18,15 +18,17 @@
 + [virustotal scripts](https://github.com/ultros/virustotal_scripts) - Various VirusTotal scripts.
 
 #### Enumeration
-+ [fuzzbuster](https://github.com/ultros/fuzzbuster) - Concurrent directory buster, parameter and query fuzzer
-  + [subdomainfuzzbuster](https://github.com/ultros/fuzzbuster/blob/master/subdomainfuzzbuster.py) - Concurrent subdomain and virtual host enumerator
-+ [ldaplister](https://github.com/ultros/ldaplister) - LDAP Tools
-+ [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
++ [Python] [fuzzbuster](https://github.com/ultros/fuzzbuster) - Concurrent directory buster, parameter and query fuzzer
+  + [Python] [subdomainfuzzbuster](https://github.com/ultros/fuzzbuster/blob/master/subdomainfuzzbuster.py) - Concurrent subdomain and virtual host enumerator
++ [Python] [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
 
+#### Active Directory
++ [C#] [LDAP Tools](https://github.com/ultros/](https://github.com/ultros/LdapTools) - LDAP Tool GUI written in C#.
+  
 #### Honeypots, Lures, and Phishing
-+ [sshoney](https://github.com/ultros/sshoney) - An SSH Honeypot for capturing logon credentials.
-+ [ftpdhoney](https://github.com/ultros/honeyftpd) - An FTP Honeypot for capturing logon credentials.
-+ [spider_trap](https://github.com/ultros/spider_trap) - A web crawler trap that can set some spiders into an infinite loop.
++ [Python] [sshoney](https://github.com/ultros/sshoney) - An SSH Honeypot for capturing logon credentials.
++ [Python] [ftpdhoney](https://github.com/ultros/honeyftpd) - An FTP Honeypot for capturing logon credentials.
++ [Python] [spider_trap](https://github.com/ultros/spider_trap) - A web crawler trap that can set some spiders into an infinite loop.
 
 #### Authentication Systems
 + [rascal](https://github.com/ultros/rascal) - Concurrent Webpage Login Brute Forcer (POST and Basic Authentication)
