@@ -1,5 +1,5 @@
 ## Artificial Intelligence  
-+ [Python] [daenum](https://github.com/ultros/daenum) - When run on a Debian system, this script will enumerate all daemons and provide an AI generated response of what each daemon performs or provides.  
++ [Python] [daenum](https://github.com/ultros/daenum) - When run on a Debian system, this script will enumerate all daemons and provide an AI generated response of a description of each.  
 
 ## Encryption  
 + [Python] [DotNetNuker](https://github.com/ultros/dotnetnuker) - Decrypts DotNetNuke (DNN) Encrypted Passwords
