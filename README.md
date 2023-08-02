@@ -3,6 +3,7 @@
 
 ## Encryption  
 + [Python] [DotNetNuker](https://github.com/ultros/dotnetnuker) - Decrypts DotNetNuke (DNN) Encrypted Passwords
++ [C#] [SimpleEncryptor](https://github.com/ultros/SimpleEncryptor) - Encrypt and decrypt files using AES 256 CBC
 
 ## Digital Forensics
 + PoC: [Python] [pbrExtractor](https://github.com/ultros/pbre) - Plugin-Based Registry Extractor
