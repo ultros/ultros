@@ -9,7 +9,7 @@
 + PoC: [Python] [pbrExtractor](https://github.com/ultros/pbre) - Plugin-Based Registry Extractor
 
 ## Anti-Forensics
-+ [Python] [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet and reading kern.log (no socket binding).
++ [Python] [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet checking it against packets logged in dmesg (no socket binding).
 
 ## Cybersecurity
 + [Python] [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
