@@ -10,6 +10,7 @@
 
 ## Anti-Forensics
 + [Python] [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet checking it against packets logged in dmesg (no socket binding).
++ [Python] [sprung](https://github.com/ultros/sprung) - Reboot the operating system when a thumb drive is removed.
 
 ## Cybersecurity
 + [Python] [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
