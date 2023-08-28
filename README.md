@@ -3,7 +3,7 @@
 
 ## Encryption  
 + [Python] [DotNetNuker](https://github.com/ultros/dotnetnuker) - Decrypts DotNetNuke (DNN) Encrypted Passwords
-+ [C#] [SimpleEncryptor](https://github.com/ultros/SimpleEncryptor) - Encrypt and decrypt files using AES 256 CBC ***(linux-x64 net6.0 Release)***
++ [C#] [SimpleEncryptor](https://github.com/ultros/SimpleEncryptor) - Encrypt and decrypt files using AES 256 CBC ***[linux-x64 net6.0 Release](https://github.com/ultros/SimpleEncryptor/releases/tag/1.0)***
 
 ## Digital Forensics
 + PoC: [Python] [pbrExtractor](https://github.com/ultros/pbre) - Plugin-Based Registry Extractor
@@ -11,7 +11,7 @@
 ## Anti-Forensics
 + [Python] [shkval](https://github.com/ultros/shkval) - Shred a file remotely by sending a forged packet checking it against packets logged in dmesg (no socket binding).
 + [Python] [sprung](https://github.com/ultros/sprung) - Reboot the operating system when a thumb drive is removed.
-+ [C#] [SimpleWiper](https://github.com/ultros/SimpleWiper) - Simple Data Wiping Applications in C#
++ [C#] [SimpleWiper](https://github.com/ultros/SimpleWiper) - Simple Data Wiping Applications in C# ***[linux-x64 net6.0 Release](https://github.com/ultros/SimpleWiper/releases/tag/1.0)***
 
 ## Cybersecurity
 + [Python] [wpnuker](https://github.com/ultros/wpnuker) - Wordpress enumerator and brute forcer 
