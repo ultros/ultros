@@ -6,6 +6,7 @@
 + [C#] [SimpleEncryptor](https://github.com/ultros/SimpleEncryptor) - Encrypt and decrypt files using AES 256 CBC ***[linux-x64 net6.0 Release](https://github.com/ultros/SimpleEncryptor/releases/tag/1.0)***
 
 ## Digital Forensics
++ [Python] [get_notepad](https://github.com/ultros/get_notepad) - Dump the Microsoft Notepad tab cache to json.
 + PoC: [Python] [pbrExtractor](https://github.com/ultros/pbre) - Plugin-Based Registry Extractor
 
 ## Anti-Forensics
