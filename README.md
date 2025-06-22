@@ -52,3 +52,6 @@
 + [Python] [Huawei m615 messageMaster Carver](https://github.com/ultros/Huawei-m615-messageMaster-Carver)
 + [Python] [Android Email Extractor](https://github.com/ultros/extract-android-gmail)
 + [Python] [iDevice exif Data Parser](https://github.com/ultros/iDevice-EXIF-Data-Parser)
+
+## Farm-Automation-and-Scripting
++ [Python] [Terminal Egg Incubator Tracker](https://github.com/ultros/EggIncubatorTracker) - This script provides a terminal-based interface to monitor up to 8 eggs over a 21-day incubation cycle.
