@@ -28,7 +28,6 @@
 + [Python] [simba](https://github.com/ultros/simba) - SMB tool to list service names (shares), upload file, and download file
 
 #### Active Directory
-+ [C#] [LDAP Tools](https://github.com/ultros/LdapTools) - LDAP Tool GUI written in C#.
 + [Python] [ldaplister](https://github.com/ultros/ldaplister/blob/master/ldaplister.py) - Misc. common LDAP operations.
   
 #### Honeypots, Lures, and Phishing
